@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Pedro Moreira 👋
 
-<!--
-**pedromoreira-tech/pedromoreira-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software com foco em desenvolvimento web.
 
-Here are some ideas to get you started:
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente
+- Desenvolvendo projetos para portfólio
+- Aprimorando habilidades em desenvolvimento web
+- Buscando oportunidade de estágio na área de tecnologia
+
+## Contato
+- Email: pedromoreira688@gmail.com
